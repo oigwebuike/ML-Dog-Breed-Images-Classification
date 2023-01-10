@@ -10,6 +10,4 @@ Your city is hosting a citywide dog show and you have volunteered to help the or
 
 Some people are planning on registering pets that aren’t actual dogs.
 
-You need to use an already developed Python classifier to make sure the participants are dogs.
-
-Note, you DO NOT need to create the classifier. It will be provided to you. You will need to apply the Python tools you just learned to USE the classifier.
+To run this project on a local machine, run `python check_images.py` on the Terminal
